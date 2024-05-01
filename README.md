@@ -1,1 +1,1 @@
-These project were done for MIS 515 - Object Oriented Programming. The class features python for data analysis techniques, including regression and machine learning models. 
+These project were done for MIS 515 - Object Oriented Programming. The class features python for data analysis techniques, including regression and machine learning models. Project #2 utilizes a dataset for housing prices in California in 2021. Project #3 utilizes a dataset about credit, where I used a random forest model to accurately classify one's credit based on attributes about the person.
